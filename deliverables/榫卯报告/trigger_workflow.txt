@@ -1,0 +1,1 @@
+Trigger workflow to generate placeholder PPT and images (placeholders). Commit made by assistant to start GitHub Actions build.
